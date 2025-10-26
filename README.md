@@ -4,6 +4,9 @@
 **Overview**
 This interactive Power BI dashboard provides a comprehensive analysis of the Summer Olympics from 1896 to 2020. It offers valuable insights into the history of the games, highlighting medal distribution, athlete demographics, and country performance over time.
 
+<img width="1188" height="670" alt="image" src="https://github.com/user-attachments/assets/f7847d21-5c55-436f-8237-381385efb7ae" />
+
+
 **Key Features**
 - Global Overview Cards:
 - 70 Total Sports
